@@ -8,3 +8,7 @@ Organized the CSS sheet style.css by grouping together classes with the same fon
 Fixed button on the top navigation bar to properly take you to where they are located on the site when clicked
 Added the alt="" by the images to tell a description if the image doesn't properly load
 Removed the extra <img> tag on the benefit-cost class
+
+[Code Refactor ](https://github.com/slothings/code-refactor) is hosted on GitHub Pages
+
+This application was authored by [Seth Martineau](https://github.com/slothings)
