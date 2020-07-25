@@ -4,7 +4,7 @@
 
 Code Refactor is a repository where I've refactored Horiseon's existing webpage to make it more accessible and semantic.
 
-![Application landing page](/assets/images/digital-marketing-meeting.jpg/)
+![Application landing page](./assets/images/readme.jpg)
 
 [Code Refactor ](https://slothings.github.io/code-refactor/) is hosted on GitHub Pages
 
