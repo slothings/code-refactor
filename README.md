@@ -6,7 +6,7 @@ Code Refactor is a repository where I've refactored Horiseon's existing webpage 
 
 ![Application landing page](/assets/images/readme.jpg)
 
-Meyberwebs Reset CSS tool was used and can be found [here](http://meyerweb.com/eric/tools/css/reset/)
+Meyberweb's Reset CSS tool was used and can be found [here](http://meyerweb.com/eric/tools/css/reset/)
 
 [Code Refactor ](https://slothings.github.io/code-refactor/) is hosted on GitHub Pages
 
